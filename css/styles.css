@@ -140,7 +140,7 @@ p { margin: 0 0 1em; color: var(--color-ink-soft); }
   color: #fff;
   overflow: hidden;
   background-color: #2a4a4e;
-  background-image: var(--hero-bg);
+
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
